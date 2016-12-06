@@ -1,5 +1,5 @@
 # SudokuSolver
-A C# console application to solve 9x9 sudoku boards.
+A C# console application to solve sudoku boards.
 
 - The SudokuSolver class can solve any valid sudoku boards, regardless of size.
 - The board is solved recursively using the `SolveCell` method:
